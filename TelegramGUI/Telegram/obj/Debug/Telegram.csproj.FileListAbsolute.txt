@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Telegram\Telegram\bin\Debug\Telegram.exe.config
+C:\Users\Owner\source\repos\Telegram\Telegram\bin\Debug\Telegram.exe
+C:\Users\Owner\source\repos\Telegram\Telegram\bin\Debug\Telegram.pdb
+C:\Users\Owner\source\repos\Telegram\Telegram\obj\Debug\Telegram.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Telegram\Telegram\obj\Debug\Telegram.Form1.resources
+C:\Users\Owner\source\repos\Telegram\Telegram\obj\Debug\Telegram.Properties.Resources.resources
+C:\Users\Owner\source\repos\Telegram\Telegram\obj\Debug\Telegram.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\Telegram\Telegram\obj\Debug\Telegram.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Telegram\Telegram\obj\Debug\Telegram.exe
+C:\Users\Owner\source\repos\Telegram\Telegram\obj\Debug\Telegram.pdb
+C:\Users\Owner\source\repos\Telegram\Telegram\obj\Debug\Telegram.Form2.resources
